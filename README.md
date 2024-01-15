@@ -39,5 +39,5 @@ This has been built with the version 18.18 of Node JS
 
 ### Exam information - to be completed
 - Student (Lastname and Firstname) :TURKOGLU Semih
-- GitHub repository URL :
+- GitHub repository URL : https://github.com/semih-turkoglu-vinci/examen-devops.git
 - Azure Static Web app URL : 
